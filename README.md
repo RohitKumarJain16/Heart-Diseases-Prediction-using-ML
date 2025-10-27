@@ -149,7 +149,7 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 ## Contact
 Rohit Kumar Jain - RohitKumarJain16
-Email: (add your email if you want to share contact info)
+Email: (jshubh004@gmail.com)
 
 ---
 
